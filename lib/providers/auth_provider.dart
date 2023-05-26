@@ -18,8 +18,6 @@ enum AuthStatus {
 }
 
 class AuthProvider extends ChangeNotifier {
-
-  String? _token;
   AuthStatus authStatus = AuthStatus.checking;
   Usuario? user;
 
