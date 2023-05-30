@@ -1,16 +1,19 @@
-# admin_dashboard
+<p align="center">
+  <img src="/Screenshots/flutter-logo.png" alt="Flutter" />
+</p>
 
-A new Flutter project.
 
-## Getting Started
+# App de Información de Películas de Cine
 
-This project is a starting point for a Flutter application.
+Esta aplicación web Flutter creada por para ofrece a los usuarios la posibilidad de acceder a un panel personalizado a través de un sistema de inicio de sesión. El tablero incluye un menú con opciones de lista, un perfil de usuario y una variedad de íconos para mejorar la experiencia del usuario.
 
-A few resources to get you started if this is your first Flutter project:
+## Capturas de pantalla
+![Pantalla Principal](/screenshots/pantalla_1.png)
+![Pantalla Detalles](/screenshots/pantalla_2.png)
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+## Instalación
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1. Clona este repositorio en tu máquina local: git clone [https://github.com/alejoe2/fl_app_peliculas.git](https://github.com/alejoe2/fl_web_admin_dashboard.git)
+2. Asegúrate de tener Flutter instalado en tu sistema. Para obtener más información sobre cómo configurar Flutter, visita la [documentación oficial](https://flutter.dev/docs/get-started/install).
+3. Ejecuta el siguiente comando para obtener las dependencias del proyecto: flutter pub get
+4. Conecta tu dispositivo o inicia un emulador y ejecuta la aplicación: flutter run
