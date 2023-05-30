@@ -94,7 +94,7 @@ class AuthProvider extends ChangeNotifier {
     final token = LocalStorage.prefs.getString('token');
 
     if( token == null ) {
-      authStatus = AuthStatus.notAuthenticated;
+      authStatus = AuthStatus.authenticated;
       notifyListeners();
       return false;
     }
