@@ -8,8 +8,8 @@
 Esta aplicación web Flutter creada por para ofrece a los usuarios la posibilidad de acceder a un panel personalizado a través de un sistema de inicio de sesión. El tablero incluye un menú con opciones de lista, un perfil de usuario y una variedad de íconos para mejorar la experiencia del usuario.
 
 ## Capturas de pantalla
-![Pantalla Principal](/Screenshots/pantalla_1.png)
-![Pantalla Detalles](/Screenshots/pantalla_2.png)
+![Pantalla Principal](/screenshots/pantalla_1.png)
+![Pantalla Detalles](/screenshots/pantalla_2.png)
 
 ## Instalación
 
