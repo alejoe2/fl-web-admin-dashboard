@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="/Screenshots/flutter-logo.png" alt="Flutter" />
+  <img src="/screenshots/flutter-logo.png" alt="Flutter" />
 </p>
 
 
